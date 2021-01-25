@@ -1,0 +1,3 @@
+[submodule "opencollective-frontend"]
+	path = opencollective-frontend
+	url = https://github.com/opencollective/opencollective-frontend
